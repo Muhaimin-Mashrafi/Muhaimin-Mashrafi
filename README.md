@@ -44,8 +44,20 @@
 
 ### Tech Stack
 
+**Languages**<br/>
 <img src="https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=7AA2F7" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-1A1B26?style=flat-square&logo=openjdk&logoColor=F7768E" alt="Java"/>
+<img src="https://img.shields.io/badge/C++-1A1B26?style=flat-square&logo=cplusplus&logoColor=7DCFFF" alt="C++"/>
 <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=E0AF68" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML-1A1B26?style=flat-square&logo=html5&logoColor=F7768E" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1A1B26?style=flat-square&logo=css3&logoColor=7AA2F7" alt="CSS"/>
+
+**AI Tools**<br/>
+<img src="https://img.shields.io/badge/Claude-1A1B26?style=flat-square&logo=claude&logoColor=E0AF68" alt="Claude"/>
+<img src="https://img.shields.io/badge/ChatGPT-1A1B26?style=flat-square&logo=openai&logoColor=9ECE6A" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Antigravity-1A1B26?style=flat-square&logo=google&logoColor=BB9AF7" alt="Antigravity"/>
+
+**Development Tools**<br/>
 <img src="https://img.shields.io/badge/VS_Code-1A1B26?style=flat-square&logo=visualstudiocode&logoColor=7AA2F7" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Git-1A1B26?style=flat-square&logo=git&logoColor=F7768E" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-1A1B26?style=flat-square&logo=github&logoColor=C9D1D9" alt="GitHub"/>
