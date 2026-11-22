@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Abdullah Al Muhaimin - AI / Machine Learning Enthusiast" width="100%"/>
+  <img src="assets/banner.svg?v=2" alt="Abdullah Al Muhaimin - AI / Machine Learning Enthusiast" width="100%"/>
 </div>
  
 ---
