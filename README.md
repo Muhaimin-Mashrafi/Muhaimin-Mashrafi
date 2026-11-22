@@ -47,7 +47,7 @@
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=7AA2F7" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-1A1B26?style=flat-square&logo=openjdk&logoColor=F7768E" alt="Java"/>
-<img src="https://img.shields.io/badge/C++-1A1B26?style=flat-square&logo=cplusplus&logoColor=7DCFFF" alt="C++"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1A1B26?style=flat-square&logo=cplusplus&logoColor=7DCFFF" alt="C++"/>
 <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=E0AF68" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML-1A1B26?style=flat-square&logo=html5&logoColor=F7768E" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-1A1B26?style=flat-square&logo=css3&logoColor=7AA2F7" alt="CSS"/>
