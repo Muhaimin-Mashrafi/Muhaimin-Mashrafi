@@ -4,7 +4,7 @@
 
 ---
 
-## / ABOUT
+##  ABOUT
 
 A Python developer passionate about Artificial Intelligence and Machine Learning. I build practical projects, train and evaluate models, and explore AI across its major domains.
 
