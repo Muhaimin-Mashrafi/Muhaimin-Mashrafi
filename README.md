@@ -1,8 +1,6 @@
-# Abdullah Al Muhaimin
-
-### AI / Machine Learning Enthusiast
-
-`> building intelligent systems...`
+<div align="center">
+  <img src="assets/banner.svg" alt="Abdullah Al Muhaimin - AI / Machine Learning Enthusiast" width="100%"/>
+</div>
 
 ---
 
@@ -38,14 +36,13 @@ Model Training · Model Evaluation · AI Development · Python Applications
 ## / GITHUB STATS
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Muhaimin-Mashrafi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C1121F&text_color=C9D1D9&icon_color=C1121F" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaimin-Mashrafi&layout=compact&hide_border=true&bg_color=0D1117&title_color=C1121F&text_color=C9D1D9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Muhaimin-Mashrafi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&icon_color=2F81F7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaimin-Mashrafi&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
 </p>
 
 ## / CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abdullah-al-muhaimin-a3ba37292/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-151515?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhaimin-Mashrafi)
 
 ---
