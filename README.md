@@ -44,40 +44,47 @@
 
 ### Tech Stack
 
-<b>Languages</b><br/>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python"/></a>
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" title="Java"/></a>
-<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" title="C++"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript"/></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" title="HTML"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" title="CSS"/></a>
+<sub><b>LANGUAGES</b></sub><br/>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" height="44" alt="Python" title="Python"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" height="44" alt="Java" title="Java"/></a>&nbsp;&nbsp;
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" title="C++"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" title="JavaScript"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" alt="TypeScript" title="TypeScript"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML" title="HTML"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" alt="CSS" title="CSS"/></a>
+<br/><br/>
 
-<b>AI &amp; Machine Learning</b><br/>
-<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" title="PyTorch"/></a>
-<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" title="TensorFlow"/></a>
-<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="scikit-learn" title="scikit-learn"/></a>
-<a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" title="OpenCV"/></a>
+<sub><b>AI &AMP; MACHINE LEARNING</b></sub><br/>
+<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="44" height="44" alt="PyTorch" title="PyTorch"/></a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" height="44" alt="TensorFlow" title="TensorFlow"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" height="44" alt="scikit-learn" title="scikit-learn"/></a>&nbsp;&nbsp;
+<a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="44" height="44" alt="OpenCV" title="OpenCV"/></a>
+<br/><br/>
 
-<b>Web &amp; Backend</b><br/>
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React"/></a>
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" title="Node.js"/></a>
-<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" title="Express"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI"/></a>
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/></a>
-<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/></a>
+<sub><b>WEB &AMP; BACKEND</b></sub><br/>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" alt="React" title="React"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" alt="Node.js" title="Node.js"/></a>&nbsp;&nbsp;
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="44" height="44" alt="Express" title="Express"/></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="44" height="44" alt="FastAPI" title="FastAPI"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44" height="44" alt="MySQL" title="MySQL"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="44" height="44" alt="MongoDB" title="MongoDB"/></a>
+<br/><br/>
 
-<b>Tools</b><br/>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git"/></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub"/></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code"/></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker"/></a>
-<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" title="Linux"/></a>
-<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" title="Figma"/></a>
-<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman"/></a>
+<sub><b>TOOLS</b></sub><br/>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" alt="Git" title="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" title="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" alt="VS Code" title="VS Code"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="44" height="44" alt="Docker" title="Docker"/></a>&nbsp;&nbsp;
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" alt="Linux" title="Linux"/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" height="44" alt="Figma" title="Figma"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="44" height="44" alt="Postman" title="Postman"/></a>
+<br/><br/>
 
-<b>AI Assistants</b><br/>
-<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-2A3350?style=flat-square" alt="Claude"/></a> <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-2A3350?style=flat-square" alt="ChatGPT"/></a> <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-2A3350?style=flat-square" alt="Antigravity"/></a>
+<sub><b>AI ASSISTANTS</b></sub><br/>
+<a href="https://claude.ai"><img src="assets/icons/claude.svg" width="44" height="44" alt="Claude" title="Claude"/></a>&nbsp;&nbsp;
+<a href="https://chatgpt.com"><img src="assets/icons/chatgpt.svg" width="44" height="44" alt="ChatGPT" title="ChatGPT"/></a>&nbsp;&nbsp;
+<a href="https://antigravity.google"><img src="assets/icons/antigravity.svg" width="44" height="44" alt="Antigravity" title="Antigravity"/></a>
+<br/><br/>
 
 <details>
 <summary><b>What each tool is for</b></summary>
