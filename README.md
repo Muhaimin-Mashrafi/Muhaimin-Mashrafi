@@ -45,7 +45,7 @@
 ### Tech Stack
 
 <sub><b>LANGUAGES</b></sub><br/>
-<img src="assets/spacer.svg" width="1" height="6" alt=""/><br/>
+<sub><sub>&nbsp;</sub></sub><br/>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" height="44" alt="Python" title="Python"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" height="44" alt="Java" title="Java"/></a>&nbsp;&nbsp;
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" title="C++"/></a>&nbsp;&nbsp;
@@ -56,7 +56,7 @@
 <br/><br/>
 
 <sub><b>AI &AMP; MACHINE LEARNING</b></sub><br/>
-<img src="assets/spacer.svg" width="1" height="6" alt=""/><br/>
+<sub><sub>&nbsp;</sub></sub><br/>
 <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="44" height="44" alt="PyTorch" title="PyTorch"/></a>&nbsp;&nbsp;
 <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" height="44" alt="TensorFlow" title="TensorFlow"/></a>&nbsp;&nbsp;
 <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" height="44" alt="scikit-learn" title="scikit-learn"/></a>&nbsp;&nbsp;
@@ -64,7 +64,7 @@
 <br/><br/>
 
 <sub><b>WEB &AMP; BACKEND</b></sub><br/>
-<img src="assets/spacer.svg" width="1" height="6" alt=""/><br/>
+<sub><sub>&nbsp;</sub></sub><br/>
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" alt="React" title="React"/></a>&nbsp;&nbsp;
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" alt="Node.js" title="Node.js"/></a>&nbsp;&nbsp;
 <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="44" height="44" alt="Express" title="Express"/></a>&nbsp;&nbsp;
@@ -74,7 +74,7 @@
 <br/><br/>
 
 <sub><b>TOOLS</b></sub><br/>
-<img src="assets/spacer.svg" width="1" height="6" alt=""/><br/>
+<sub><sub>&nbsp;</sub></sub><br/>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" alt="Git" title="Git"/></a>&nbsp;&nbsp;
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" alt="GitHub" title="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" alt="VS Code" title="VS Code"/></a>&nbsp;&nbsp;
@@ -85,7 +85,7 @@
 <br/><br/>
 
 <sub><b>AI ASSISTANTS</b></sub><br/>
-<img src="assets/spacer.svg" width="1" height="6" alt=""/><br/>
+<sub><sub>&nbsp;</sub></sub><br/>
 <a href="https://claude.ai"><img src="assets/icons/claude.svg" width="44" height="44" alt="Claude" title="Claude"/></a>&nbsp;&nbsp;
 <a href="https://chatgpt.com"><img src="assets/icons/chatgpt.svg" width="44" height="44" alt="ChatGPT" title="ChatGPT"/></a>&nbsp;&nbsp;
 <a href="https://antigravity.google"><img src="assets/icons/antigravity.svg" width="44" height="44" alt="Antigravity" title="Antigravity"/></a>
