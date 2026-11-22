@@ -17,6 +17,10 @@ A Python developer passionate about Artificial Intelligence and Machine Learning
 - Computer Vision
 - Generative AI
 
+## PROJECTS
+
+**[CropVerse](https://github.com/Muhaimin-Mashrafi/Corpverse)** · A crop marketplace web app connecting farmers and buyers, with admin approval, price trend charts and crop disease reports. Built with Node.js, Express and MySQL.
+
 ##  TECH STACK
 
 **Programming**
