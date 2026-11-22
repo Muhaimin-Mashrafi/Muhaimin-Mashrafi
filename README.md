@@ -8,7 +8,7 @@
 
 A Python developer passionate about Artificial Intelligence and Machine Learning. I build practical projects, train and evaluate models, and explore AI across its major domains.
 
-## / INTERESTS
+##  INTERESTS
 
 - Artificial Intelligence
 - Machine Learning
@@ -17,7 +17,7 @@ A Python developer passionate about Artificial Intelligence and Machine Learning
 - Computer Vision
 - Generative AI
 
-## / TECH STACK
+##  TECH STACK
 
 **Programming**
 
@@ -33,14 +33,14 @@ A Python developer passionate about Artificial Intelligence and Machine Learning
 
 Model Training · Model Evaluation · AI Development · Python Applications
 
-## / GITHUB STATS
+###  GITHUB STATS
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Muhaimin-Mashrafi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&icon_color=2F81F7" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaimin-Mashrafi&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
 </p>
 
-## / CONNECT
+##  CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abdullah-al-muhaimin-a3ba37292/)
 [![GitHub](https://img.shields.io/badge/GitHub-151515?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhaimin-Mashrafi)
