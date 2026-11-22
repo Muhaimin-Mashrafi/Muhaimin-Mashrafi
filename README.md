@@ -17,12 +17,9 @@
 
 ### Interests
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-2A3350?style=flat-square" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Machine_Learning-2A3350?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep_Learning-2A3350?style=flat-square" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/NLP-2A3350?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Computer_Vision-2A3350?style=flat-square" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Generative_AI-2A3350?style=flat-square" alt="Generative AI"/>
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-2A3350?style=flat-square" alt="Artificial Intelligence"/>&nbsp;<img src="https://img.shields.io/badge/Machine_Learning-2A3350?style=flat-square" alt="Machine Learning"/>&nbsp;<img src="https://img.shields.io/badge/Deep_Learning-2A3350?style=flat-square" alt="Deep Learning"/>&nbsp;<img src="https://img.shields.io/badge/NLP-2A3350?style=flat-square" alt="NLP"/>&nbsp;<img src="https://img.shields.io/badge/Computer_Vision-2A3350?style=flat-square" alt="Computer Vision"/>&nbsp;<img src="https://img.shields.io/badge/Generative_AI-2A3350?style=flat-square" alt="Generative AI"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
