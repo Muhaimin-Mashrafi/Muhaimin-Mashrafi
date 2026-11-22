@@ -54,14 +54,14 @@
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML" title="HTML"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" alt="CSS" title="CSS"/></a>
 
-###### AI &AMP; MACHINE LEARNING
+###### AI & MACHINE LEARNING
 
 <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="44" height="44" alt="PyTorch" title="PyTorch"/></a>&nbsp;&nbsp;
 <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" height="44" alt="TensorFlow" title="TensorFlow"/></a>&nbsp;&nbsp;
 <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" height="44" alt="scikit-learn" title="scikit-learn"/></a>&nbsp;&nbsp;
 <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="44" height="44" alt="OpenCV" title="OpenCV"/></a>
 
-###### WEB &AMP; BACKEND
+###### WEB & BACKEND
 
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" alt="React" title="React"/></a>&nbsp;&nbsp;
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" alt="Node.js" title="Node.js"/></a>&nbsp;&nbsp;
