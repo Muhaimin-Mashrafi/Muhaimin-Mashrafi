@@ -45,19 +45,75 @@
 ### Tech Stack
 
 <b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark&perline=10" alt="Languages"/>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python"/></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" title="Java"/></a>
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" title="C++"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" title="HTML"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" title="CSS"/></a>
 
 <b>AI &amp; Machine Learning</b><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10" alt="AI &amp; Machine Learning"/>
+<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" title="PyTorch"/></a>
+<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" title="TensorFlow"/></a>
+<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="scikit-learn" title="scikit-learn"/></a>
+<a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" title="OpenCV"/></a>
 
 <b>Web &amp; Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mysql,mongodb&theme=dark&perline=10" alt="Web &amp; Backend"/>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React"/></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" title="Node.js"/></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" title="Express"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI"/></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/></a>
 
 <b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma,postman&theme=dark&perline=10" alt="Tools"/>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git"/></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub"/></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code"/></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker"/></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" title="Linux"/></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" title="Figma"/></a>
+<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman"/></a>
 
 <b>AI Assistants</b><br/>
-<img src="https://img.shields.io/badge/Claude-2A3350?style=flat-square" alt="Claude"/> <img src="https://img.shields.io/badge/ChatGPT-2A3350?style=flat-square" alt="ChatGPT"/> <img src="https://img.shields.io/badge/Antigravity-2A3350?style=flat-square" alt="Antigravity"/>
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-2A3350?style=flat-square" alt="Claude"/></a> <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-2A3350?style=flat-square" alt="ChatGPT"/></a> <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-2A3350?style=flat-square" alt="Antigravity"/></a>
+
+<details>
+<summary><b>What each tool is for</b></summary>
+<br/>
+
+| Tool | What it is |
+| --- | --- |
+| [Python](https://www.python.org) | General-purpose language, my main tool for AI and data work |
+| [Java](https://www.java.com) | Object-oriented language for larger, structured programs |
+| [C++](https://isocpp.org) | Fast, low-level language for performance-focused code |
+| [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) | The language of the web, runs in the browser and on servers |
+| [TypeScript](https://www.typescriptlang.org) | JavaScript with types for safer, cleaner code |
+| [HTML](https://developer.mozilla.org/docs/Web/HTML) | Structure and content of web pages |
+| [CSS](https://developer.mozilla.org/docs/Web/CSS) | Styling and layout for web pages |
+| [PyTorch](https://pytorch.org) | Deep learning framework for building and training neural networks |
+| [TensorFlow](https://www.tensorflow.org) | Machine learning platform for training and deploying models |
+| [scikit-learn](https://scikit-learn.org) | Classic machine learning algorithms and model evaluation |
+| [OpenCV](https://opencv.org) | Computer vision library for image and video processing |
+| [React](https://react.dev) | Library for building interactive user interfaces |
+| [Node.js](https://nodejs.org) | Runs JavaScript on the server |
+| [Express](https://expressjs.com) | Minimal web framework for building APIs on Node.js |
+| [FastAPI](https://fastapi.tiangolo.com) | Modern Python framework for fast APIs |
+| [MySQL](https://www.mysql.com) | Relational database for structured data |
+| [MongoDB](https://www.mongodb.com) | Document database for flexible data |
+| [Git](https://git-scm.com) | Version control to track changes in code |
+| [GitHub](https://github.com) | Hosting, collaboration and sharing of code |
+| [VS Code](https://code.visualstudio.com) | Code editor for everyday development |
+| [Docker](https://www.docker.com) | Packages apps into containers that run anywhere |
+| [Linux](https://www.linux.org) | Open-source operating system, common for servers and development |
+| [Figma](https://www.figma.com) | Interface design and prototyping |
+| [Postman](https://www.postman.com) | Testing and exploring APIs |
+| [Claude](https://claude.ai) | Anthropic's AI assistant, for writing, coding and learning |
+| [ChatGPT](https://chatgpt.com) | OpenAI's AI assistant, for brainstorming and quick answers |
+| [Antigravity](https://antigravity.google) | Google's AI-powered coding environment |
+
+</details>
 
 <sub>Focus areas: Model Training · Model Evaluation · AI Development · Python Applications</sub>
 
