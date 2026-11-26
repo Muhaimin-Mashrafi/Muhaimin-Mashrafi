@@ -135,6 +135,7 @@
 
 ### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1B26?style=flat-square&logo=githubpages&logoColor=7AA2F7)](https://muhaimin-mashrafi.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B26?style=flat-square&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/abdullah-al-muhaimin-a3ba37292/)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1B26?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/Muhaimin-Mashrafi)
 
